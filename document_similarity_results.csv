@@ -1,0 +1,11 @@
+Document 1,Document 2,Similarity Score
+article1.pdf,article2.pdf,0.6218
+article1.pdf,article5.pdf,0.5634
+article2.pdf,article5.pdf,0.5222
+article4.pdf,article5.pdf,0.4926
+article2.pdf,article4.pdf,0.4459
+article1.pdf,article4.pdf,0.4048
+article1.pdf,article3.pdf,0.0
+article2.pdf,article3.pdf,0.0
+article3.pdf,article4.pdf,0.0
+article3.pdf,article5.pdf,0.0
